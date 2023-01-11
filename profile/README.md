@@ -6,4 +6,3 @@ It is tremendously important to us that people take, use, build on and share wha
 
 - [Docs](https://docs.grassecon.org)
 - [Discord](https://discord.gg/xayVsrkHPQ)
-- [Forum (WIP)](https://community.grassecon.org)
