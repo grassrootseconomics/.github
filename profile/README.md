@@ -4,5 +4,6 @@ Grassroots Economics is a non-profit foundation that seeks to empower marginaliz
 
 It is tremendously important to us that people take, use, build on and share what we've found to be useful. Join us in demonstrating, disseminating, designing & curating the best practices to empower communities to create and manage their own financial instruments.
 
-- [Docs](https://docs.grassecon.org)
+- [Core Docs](https://docs.grassecon.org)
+- [CIC Stack Docs](https://cic-stack.grassecon.org)
 - [Discord](https://discord.gg/xayVsrkHPQ)
