@@ -4,6 +4,7 @@ Grassroots Economics is a non-profit foundation that seeks to support communitie
 
 It is tremendously important to us that people take, use, build on and share what we've found to be useful. Join us in demonstrating, disseminating, designing & curating the best practices to empower communities to create and manage their own financial instruments. All our software, websites, materials are CopyLeft under AGPL 3.0 for software and Creative Commons Share-Alike With Attribution. Please copy, modify and use our systems and share them with the same license.
 
+- [Foundation Website](https://grassecon.org)
 - [Core Docs](https://docs.grassecon.org)
-- [CIC Stack Docs](https://cic-stack.grassecon.org)
+- [Software Stack Docs](https://software.grassecon.org)
 - [Discord](https://discord.gg/xayVsrkHPQ)
